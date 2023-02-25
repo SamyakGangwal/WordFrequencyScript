@@ -2,8 +2,7 @@ Assignment for Scriptchain. Problem statement:
 ```
 Write a bash script to calculate the 
 
-frequency
- of each word in a text file words.txt.
+frequency of each word in a text file words.txt.
 For simplicity sake, you may assume:
 
 words.txt contains only lowercase characters and space ' ' characters.
